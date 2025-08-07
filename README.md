@@ -51,6 +51,8 @@ Você pode ver o projeto funcionando ao vivo através do GitHub Pages neste link
 
 [**https://gabril.github.io/relogioDigital/**](https://gabril.github.io/relogioDigital/)
 
+ https://gabilr.github.io/relogioDigital/
+
 ## Estrutura do Projeto
 
 * `indice.html`: O arquivo HTML principal com a estrutura do relógio.
