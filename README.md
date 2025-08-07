@@ -25,7 +25,7 @@ Com este projeto, pude praticar e entender melhor os seguintes conceitos:
 Você pode ver o projeto funcionando ao vivo através do GitHub Pages neste link:
 # Relógio Digital
 
-![Imagem de demonstração do relógio digital](assets/relogio.gif)
+https://github.com/gabilr/relogioDigital/settings/pages#:~:text=https%3A//gabilr.github.io/relogioDigital/
 
 Este é um projeto simples de um relógio digital, desenvolvido para praticar e consolidar conceitos básicos de front-end. O projeto exibe a hora, minuto e segundo atualizados em tempo real.
 
